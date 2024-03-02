@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Vidhi7500
-- 👀 I’m interested in pthon, web development...
-- 🌱 I’m currently learning web development ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in DSA and web development.
+- 🌱 I’m currently learning Next.js.
+- 💞️ I’m looking to collaborate.
+- 📫 How to reach me -
+- Email - vidhisingh7500@gmail.com
 
 <!---
 Vidhi7500/Vidhi7500 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Next.js.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me -
-- Email - vidhisingh7500@gmail.com
+- Email - singhvidhi239@gmail.com
 
 <!---
 Vidhi7500/Vidhi7500 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

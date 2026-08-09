@@ -39,14 +39,8 @@
 
 ### 📌 Featured Projects
 
-**[Project Name 1](https://github.com/YOUR_GITHUB_USERNAME/repo-name)**
-One-line description of what it does and the problem it solves. Mention the stack.
-
-**[Project Name 2](https://github.com/YOUR_GITHUB_USERNAME/repo-name)**
-One-line description of what it does and the problem it solves. Mention the stack.
-
-**[Project Name 3](https://github.com/YOUR_GITHUB_USERNAME/repo-name)**
-One-line description of what it does and the problem it solves. Mention the stack.
+**[Expense Tracker](https://github.com/Vidhi7500/exptrac)**
+A full-stack financial tracking web application that helps users manage income and expenses, maintain transaction history, calculate real-time balances, and visualize spending patterns, built using React.js, Node.js, Express.js, MongoDB, REST APIs, Context API, and Material UI.
 
 ---
 

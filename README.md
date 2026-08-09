@@ -9,8 +9,8 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working in **[BUSINESSNEXT]**
-- 🌱 Currently building **[AI Digital Employee]** in my spare time
+- 🔭 Currently working in **BUSINESSNEXT**
+- 🌱 Currently building **AI Digital Employee** in my spare time
 - 🌱 Currently learning **AI/ML**
 - 💬 Ask me about **React, Node, Java, Spring boot, Python, AI/ML, AWS**
 - 📫 Reach me at **singhvidhi239@gmail.com**

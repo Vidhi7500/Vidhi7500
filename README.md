@@ -42,7 +42,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Vidhi7500&show_icons=true&theme=default&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vidhi7500&theme=default" alt="GitHub streak" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Vidhi7500&theme=default" alt="GitHub streak" height="165" />
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhi7500&layout=compact&theme=default" alt="Top languages" height="165" />

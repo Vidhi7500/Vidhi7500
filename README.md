@@ -15,9 +15,9 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working at **BUSINESSNEXT**
-- 🌱 Currently building an **AI Digital Employee** in my spare time
-- 📚 Currently learning **AI/ML**
+- 💼 Engineering software at **BUSINESSNEXT**
+- 🤖 Building an **AI Digital Employee** on the side
+- 🧠 Deep-diving into **AI/ML**
 - 🤝 Open to collaborating on **AI/ML and automation projects**
 - 📫 Reach me at **singhvidhi239@gmail.com**
 - ⚡ Fun fact: **I unwind with a good book or a Sudoku puzzle when I'm not coding**

@@ -55,14 +55,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vidhi7500&theme=flat&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="left">

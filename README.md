@@ -46,7 +46,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vidhi7500&show_icons=true&theme=default&count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vidhi7500&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="GitHub stats" height="165" />
   <img src="https://streak-stats.demolab.com/?user=Vidhi7500&theme=default" alt="GitHub streak" height="165" />
 </p>
 <p align="left">
